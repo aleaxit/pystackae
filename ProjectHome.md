@@ -1,0 +1,1 @@
+See the Stack Exchange API at http:stackapps.com -- this project plans to offer a pure Python layer on top of it that's optimized for use on App Engine.
